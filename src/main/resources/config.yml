@@ -1,0 +1,10 @@
+# ==============================================
+#    PerWorldInventory by lukeeey
+#    https://github.com/lukeeey/PerWorldInventory
+# ==============================================
+
+# Worlds in which inventories should be bundled.
+# This means that `world` will have the same inventory as `secondworld`.
+bundled-worlds:
+  world:
+    - secondworld

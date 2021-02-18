@@ -1,0 +1,11 @@
+name: PerWorldInventory
+author: lukeeey
+description: Share inventories between worlds
+version: ${project.version}
+api: [1.0.5]
+main: io.github.lukeeey.perworldinventory.PerWorldInventory
+website: https://github.com/lukeeey/PerWorldInventory
+permissions:
+  per-world-inventory.bypass:
+    default: false
+    description: Allows bypassing the per world inventory.
